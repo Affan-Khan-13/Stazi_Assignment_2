@@ -1,0 +1,283 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "New York",
+        "houses": [
+          {
+            "id": 1,
+            "address": "123 Main Street, New York, NY",
+            "monthlyPrice": 2500,
+            "pinCode": "10001",
+            "img": "/images/1.jpg"
+          },
+          {
+            "id": 2,
+            "address": "456 Elm Street, New York, NY",
+            "monthlyPrice": 2200,
+            "pinCode": "10002",
+            "img": "/images/2.jpg"
+          },
+          {
+            "id": 3,
+            "address": "789 Oak Avenue, New York, NY",
+            "monthlyPrice": 2800,
+            "pinCode": "10003",
+            "img": "/images/3.jpg"
+          },
+          {
+            "id": 4,
+            "address": "101 Maple Drive, New York, NY",
+            "monthlyPrice": 2300,
+            "pinCode": "10004",
+            "img": "/images/4.jpg"
+          },
+          {
+            "id": 5,
+            "address": "222 Pine Road, New York, NY",
+            "monthlyPrice": 4500,
+            "pinCode": "10005",
+            "img": "/images/5.jpg"
+          },
+          {
+            "id": 6,
+            "address": "333 Cedar Lane, New York, NY",
+            "monthlyPrice": 4000,
+            "pinCode": "10006",
+            "img": "/images/6.jpg"
+          },
+          {
+            "id": 7,
+            "address": "444 Birch Circle, New York, NY",
+            "monthlyPrice": 3000,
+            "pinCode": "10007",
+            "img": "/images/7.jpg"
+          },
+          {
+            "id": 8,
+            "address": "555 Walnut Court, New York, NY",
+            "monthlyPrice": 3500,
+            "pinCode": "10008",
+            "img": "/images/8.jpg"
+          },
+          {
+            "id": 9,
+            "address": "666 Sycamore Place, New York, NY",
+            "monthlyPrice": 3200,
+            "pinCode": "10009",            
+            "img": "/images/9.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Mumbai",
+        "houses": [
+          {
+            "id": 10,
+            "address": "123 ABC Street, Mumbai",
+            "monthlyPrice": 25000,
+            "pinCode": "400001",
+            "img": "/images/10.jpg"
+          },
+          {
+            "id": 11,
+            "address": "456 XYZ Road, Mumbai",
+            "monthlyPrice": 22000,
+            "pinCode": "400002",
+            "img": "/images/11.jpg"
+          },
+          {
+            "id": 12,
+            "address": "789 PQR Avenue, Mumbai",
+            "monthlyPrice": 28000,
+            "pinCode": "400003",
+            "img": "/images/12.jpg"
+          },
+          {
+            "id": 13,
+            "address": "101 LMN Drive, Mumbai",
+            "monthlyPrice": 23000,
+            "pinCode": "400004",
+            "img": "/images/13.jpg"
+          },
+          {
+            "id": 14,
+            "address": "222 DEF Lane, Mumbai",
+            "monthlyPrice": 45000,
+            "pinCode": "400005",
+            "img": "/images/14.jpg"
+          },
+          {
+            "id": 15,
+            "address": "333 GHI Road, Mumbai",
+            "monthlyPrice": 40000,
+            "pinCode": "400006",
+            "img": "/images/15.jpg"
+          },
+          {
+            "id": 16,
+            "address": "444 JKL Place, Mumbai",
+            "monthlyPrice": 30000,
+            "pinCode": "400007",
+            "img": "/images/16.jpg"
+          },
+          {
+            "id": 17,
+            "address": "555 NOP Street, Mumbai",
+            "monthlyPrice": 35000,
+            "pinCode": "400008",
+            "img": "/images/17.jpg"
+          },
+          {
+            "id": 18,
+            "address": "666 RST Avenue, Mumbai",
+            "monthlyPrice": 32000,
+            "pinCode": "400009",
+            "img": "/images/18.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Paris",
+        "houses": [
+          {
+            "id": 19,
+            "address": "123 Rue de la Tour, Paris",
+            "monthlyPrice": 2500,
+            "pinCode": "75001",
+            "img": "/images/19.jpg"
+          },
+          {
+            "id": 20,
+            "address": "456 Avenue des Champs-Élysées, Paris",
+            "monthlyPrice": 2200,
+            "pinCode": "75002",
+            "img": "/images/20.jpg"
+          },
+          {
+            "id": 21,
+            "address": "789 Rue du Faubourg Saint-Antoine, Paris",
+            "monthlyPrice": 2800,
+            "pinCode": "75003",
+            "img": "/images/21.jpg"
+          },
+          {
+            "id": 22,
+            "address": "101 Boulevard Saint-Germain, Paris",
+            "monthlyPrice": 2300,
+            "pinCode": "75004",
+            "img": "/images/22.jpg"
+          },
+          {
+            "id": 23,
+            "address": "222 Place de la Concorde, Paris",
+            "monthlyPrice": 4500,
+            "pinCode": "75005",
+            "img": "/images/23.jpg"
+          },
+          {
+            "id": 24,
+            "address": "333 Avenue des Ternes, Paris",
+            "monthlyPrice": 4000,
+            "pinCode": "75006",
+            "img": "/images/24.jpg"
+          },
+          {
+            "id": 25,
+            "address": "444 Rue de Rivoli, Paris",
+            "monthlyPrice": 3000,
+            "pinCode": "75007",
+            "img": "/images/25.jpg"
+          },
+          {
+            "id": 26,
+            "address": "555 Rue de Sèvres, Paris",
+            "monthlyPrice": 3500,
+            "pinCode": "75008",
+            "img": "/images/26.jpg"
+          },
+          {
+            "id": 27,
+            "address": "666 Rue de la Paix, Paris",
+            "monthlyPrice": 3200,
+            "pinCode": "75009",
+            "img": "/images/27.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "London",
+        "houses": [
+          {
+            "id": 28,
+            "address": "123 Baker Street, London",
+            "monthlyPrice": 2500,
+            "pinCode": "W1U 6TY",
+            "img": "/images/28.jpg"
+          },
+          {
+            "id": 29,
+            "address": "456 Oxford Street, London",
+            "monthlyPrice": 2200,
+            "pinCode": "W1D 1AH",
+            "img": "/images/29.jpg"
+          },
+          {
+            "id": 30,
+            "address": "789 Regent Street, London",
+            "monthlyPrice": 2800,
+            "pinCode": "W1B 5AH",
+            "img": "/images/30.jpg"
+          },
+          {
+            "id": 31,
+            "address": "101 Piccadilly, London",
+            "monthlyPrice": 2300,
+            "pinCode": "W1J 7TB",
+            "img": "/images/31.jpg"
+          },
+          {
+            "id": 32,
+            "address": "222 King's Road, London",
+            "monthlyPrice": 4500,
+            "pinCode": "SW3 5UZ",
+            "img": "/images/32.jpg"
+          },
+          {
+            "id": 33,
+            "address": "333 Notting Hill Gate, London",
+            "monthlyPrice": 4000,
+            "pinCode": "SW3 5UZ",
+            "img": "/images/33.jpg"
+          },
+          {
+            "id": 34,
+            "address": "333 Notting Hill Gate, London",
+            "monthlyPrice": 4000,
+            "pinCode": "SW3 5UZ",
+            "img": "/images/34.jpg"
+          },
+          {
+            "id": 35,
+            "address": "333 Notting Hill Gate, London",
+            "monthlyPrice": 4000,
+            "pinCode": "SW3 5UZ",
+            "img": "/images/35.jpg"
+          },
+          {
+            "id": 36,
+            "address": "333 Notting Hill Gate, London",
+            "monthlyPrice": 4000,
+            "pinCode": "SW3 5UZ",
+            "img": "/images/36.jpg"
+          }
+        ]
+      }
+    ]
+}
+        
+
+  
