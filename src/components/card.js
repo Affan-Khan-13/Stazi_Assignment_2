@@ -11,8 +11,7 @@ import { Link, useParams } from 'react-router-dom'
 const Card = ({ pincode, address, price, ids, img2 }) => {
     const { id } = useParams();
     console.log(img2);
-    // const backgroundImageClass = img2 ? `bg-url('${img2}')` : 'bg-[url("C:/Users/admin/Desktop/everything/serviceklick/serviceklick-next/serviceklick-next/public/images/ameldung.png")]';
-    const backgroundImageClass = img2 ? img2 : "/images/ameldung.png";
+    const backgroundImageClass = img2 ? img2 : "/images/1.jpg";
     return (
         <div className='p-2 bg-[#fff] w-[28vw] rounded-2xl'>
             <div style={{ backgroundImage: `url('${backgroundImageClass}')` }}
